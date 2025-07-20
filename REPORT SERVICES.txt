@@ -1,0 +1,16 @@
+﻿Build started at 18:57...
+------ Build started: Project: 26, Configuration: Debug ------
+Skipping 'powerbi.rds'. Item is up to date.
+Skipping 'DataSet1.rsd'. Item is up to date.
+Skipping 'Report1.rdl'. Item is up to date.
+Build complete -- 0 errors, 0 warnings
+------ Deploy started: Project: 26, Configuration: Debug ------
+Deploying to http://desktop-5uh9gf9/ReportServer
+Deploying data source '/Data Sources/powerbi'.
+Deploying data set '/Datasets/DataSet1'.
+Deploying report '/26/Report1'.
+Deploy complete -- 0 errors, 0 warnings
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
+========== Build completed at 18:57 and took 03.033 seconds ==========
+========== Deploy: 1 succeeded, 0 failed, 0 skipped ==========
+========== Deploy completed at 18:57 and took 03.033 seconds ==========
